@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.streaming-section-container {
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  overflow-y: scroll;
+}
+
+.video-container {
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  overflow: auto;
+}
+
+.canvas {
+  max-width: 640px;
+  max-height: 320px;
+  margin: auto;
+}
+
+.audio-container {
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#videostream {
+    display: block;
+    margin: 0 auto;
+    border: solid 1px black;
+  }
