@@ -1,4 +1,25 @@
-# 433Project
+# Security Camera System
+
+<img width="315" alt="image" src="https://github.com/asd881018/Security-Camera-System/assets/84098790/605c1c48-64f7-4bfd-b6a0-c77787ccd39b">
+<img width="316" alt="image" src="https://github.com/asd881018/Security-Camera-System/assets/84098790/b113cdcc-4e1e-499c-8c60-2c05eca52b62">
+
+
+## System Overview
+Our home security solution integrates a webcam with a microphone and a PIR motion sensor to provide a comprehensive monitoring system. Users can remotely monitor any location through a live video and audio feed accessed via our website.
+
+### Key Features
+- **Webcam Integration**: Streams live video in MJpeg format via UDP.
+- **Microphone Input**: Captures and streams live audio to enhance monitoring capabilities.
+- **Motion Detection**: Uses a PIR motion sensor to trigger video recording, capturing 3 to 5 seconds of video when motion is detected.
+- **Video Playback**: Allows users to playback recorded clips directly from the webpage.
+- **One-Way Communication**: Ensures secure monitoring with one-way communication from the webcam to the viewing device.
+
+### Technical Challenges
+- **Synchronous Audio Playback**: Achieving sync between audio and video streams has been challenging due to their separate transmission paths.
+- **Audio in Recorded Videos**: Integrating audio into recorded video clips has presented difficulties.
+- **Latency Issues**: We've optimized video size and reduced processing on the Beaglebone board to minimize latency.
+
+
 
 ## Before start, using makefile to install the package
 `make all`
