@@ -1,8 +1,10 @@
 # Security Camera System
-
+<img width="739" alt="image" src="https://github.com/asd881018/Security-Camera-System/assets/84098790/7cb548b2-4092-4b98-9547-43c473acb03e">
+<img width="738" alt="image" src="https://github.com/asd881018/Security-Camera-System/assets/84098790/f1d6515f-bad4-4b8b-8639-d09fed8de574">
+<img width="739" alt="image" src="https://github.com/asd881018/Security-Camera-System/assets/84098790/d01d1186-9e71-43d4-b8c0-a6f9e1953595">
 <img width="315" alt="image" src="https://github.com/asd881018/Security-Camera-System/assets/84098790/605c1c48-64f7-4bfd-b6a0-c77787ccd39b">
 <img width="316" alt="image" src="https://github.com/asd881018/Security-Camera-System/assets/84098790/b113cdcc-4e1e-499c-8c60-2c05eca52b62">
-
+<img width="375" alt="image" src="https://github.com/asd881018/Security-Camera-System/assets/84098790/9bcb4095-395f-4cfc-985c-965edba4fa62">
 
 ## System Overview
 Our home security solution integrates a webcam with a microphone and a PIR motion sensor to provide a comprehensive monitoring system. Users can remotely monitor any location through a live video and audio feed accessed via our website.
